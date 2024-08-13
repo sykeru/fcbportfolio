@@ -38,8 +38,12 @@ footer{
 
 .fa-brands, .fa-solid{
     color: white;
-    font-size: 25px;
-    margin: 0 10px 0 10px;
+    font-size: 25px; 
+    margin: 0 10px;
+}
+
+a {
+    margin: 0 10px;
 }
 
 .fa-brands:hover, .fa-solid:hover{
